@@ -4,7 +4,7 @@ mID is an accurate and robust user identification and authentication system by u
 
 This dataset here contains the gesture samples used in mID, 22,440 samples in total. It is collected by a mmWave radar, Infneon EVAL BGT0TR24B V8 evaluation board, which radios FMCW signals operating in the 57-64 GHz range. We place the radar chip on a horizontal table with a height of 75cm. We ask volunteers to perform the predefined gesture inside the detection range, which is set as a cone with a generatrix of 60cm.
 
-<img src="https://github.com/mID-dataset/mID-dataset/tree/main/README_md_files/image (2).png" width="300"  alt="reflectors"/><br/>
+<img src="https://github.com/mID-dataset/mID-dataset/blob/main/README_md_files/image (2).png" width="300"  alt="reflectors"/><br/>
 
 For the convenience of readers, we provide not only the features used in mID but also the corresponding raw signals directly returned from the mmWave radar. Please note that we have uploaded the feature data, totaling 6.96GB. However, the data volume of the original signal is too large, i.e., 36.2GB, so we are still working hard to upload. But in order not to hinder the readers, we have also provided a link to the external network storage in the folder "AuthenRaw".
 
